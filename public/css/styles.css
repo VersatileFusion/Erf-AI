@@ -1,0 +1,43 @@
+/* Custom styles for Erf AI */
+.feature {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 4rem;
+  width: 4rem;
+  font-size: 2rem;
+}
+
+#predictionResult {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  display: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  header {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .bg-light {
+    background-color: #343a40 !important;
+  }
+
+  .text-dark {
+    color: #f8f9fa !important;
+  }
+
+  .bg-white {
+    background-color: #212529 !important;
+  }
+
+  .border {
+    border-color: #495057 !important;
+  }
+}
