@@ -165,7 +165,9 @@ MIT
 
 ## Author
 
-Erfan Ahmadvand
+Erfan Ahmadvand  
+
+Phone: +989109924707
 
 ---
 
@@ -338,6 +340,8 @@ MIT
 
 ## نویسنده
 
-عرفان احمدوند
+عرفان احمدوند  
+ایمیل: mohammaderfanahmadvand@gmail.com  
+تلفن: +989109924707
 
 </div>
